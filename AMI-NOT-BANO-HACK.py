@@ -11,7 +11,7 @@ print("""
                 
                  ●●●●●●●●●●●●●●●●●●●●●●●●●●
                  ●                        ●
-                 ●  AMI-NOT《》Bano-hack   ●    
+                 ●  AMI-NOT《》Bano-hack  ●    
                  ●  instagram:me_AMI.NOT  ●
                  ●  telegram:mr_ami_not   ●
                  ●                        ●
